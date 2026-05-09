@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated outputs
+data/raw/*.tsv
+data/raw/*.csv
+
+# macOS
+.DS_Store
